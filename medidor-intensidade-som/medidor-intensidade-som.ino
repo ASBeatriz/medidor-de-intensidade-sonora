@@ -4,7 +4,7 @@
  * Baseado no site Arduino & Cia: https://www.arduinoecia.com.br/sensor-de-som-ky-038-microfone-arduino/
  */
 
-//Difine os pinos
+//Define os pinos
 int pinoled_ver = 3;
 int pinoled_ama = 4;
 int pinoled_verm = 5;
@@ -32,7 +32,7 @@ void loop()
   //Intesidade baixa
   if (valor_A0 > 20 && valor_A0 < 40)
   {
-    //Apenas LED vermelho ligado
+    //Apenas LED verde ligado
     digitalWrite(pinoled_ver, HIGH);
     digitalWrite(pinoled_ama, LOW);
     digitalWrite(pinoled_verm, LOW);

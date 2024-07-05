@@ -18,7 +18,7 @@ Imagem do circuito físico:
 
 ![red-foto-circuito3](https://github.com/ASBeatriz/medidor-de-intensidade-sonora/assets/98134629/47117545-e644-4d39-ae7e-dd34f8c9a523)
 ![red-foto-circuito1](https://github.com/ASBeatriz/medidor-de-intensidade-sonora/assets/98134629/c4f08302-d541-4274-9abd-9e1f3cecdc4f)
-## Vídeo
+## Funcionamento
 [Vídeo no YouTube](https://youtu.be/lC4U-7NyWsI) explicando o funcionamento do circuito.
 ## Código
 <details>

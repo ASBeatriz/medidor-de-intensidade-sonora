@@ -32,7 +32,7 @@ Imagem do circuito físico:
  * Baseado no site Arduino & Cia: https://www.arduinoecia.com.br/sensor-de-som-ky-038-microfone-arduino/
  */
 
-//Difine os pinos
+//Define os pinos
 int pinoled_ver = 3;
 int pinoled_ama = 4;
 int pinoled_verm = 5;

@@ -28,7 +28,7 @@ Imagem do circuito físico:
 
 /*
  * Projeto Medidor de Intensidade Sonora
- * Desenvolvido para a disciplina de Eletrônica para Computação - USP São Carlos
+ * Desenvolvido para a disciplina de Eletrônica - USP São Carlos
  * Baseado no site Arduino & Cia: https://www.arduinoecia.com.br/sensor-de-som-ky-038-microfone-arduino/
  */
 
@@ -60,7 +60,7 @@ void loop()
   //Intesidade baixa
   if (valor_A0 > 20 && valor_A0 < 40)
   {
-    //Apenas LED vermelho ligado
+    //Apenas LED verde ligado
     digitalWrite(pinoled_ver, HIGH);
     digitalWrite(pinoled_ama, LOW);
     digitalWrite(pinoled_verm, LOW);

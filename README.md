@@ -1,2 +1,5 @@
-# medidor-de-intensidade-sonora
-Projeto da disciplina de Eletrônica (USP - São Carlos). Medidor de intensidade sonora com Arduino.
+# Medidor de Intensidade Sonora
+Projeto desenvolvido para a disciplina de Eletrônica na USP - São Carlos.
+## Alunos:
+* Beatriz Alves dos Santos - 15588630
+* 
